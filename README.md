@@ -1,3 +1,4 @@
+
 # The Cursed Maiden — Captain's Archives
 
 The captain of The Cursed Maiden kept a meticulous log.
