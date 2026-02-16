@@ -10,3 +10,4 @@ The treasure itself is protected by the captain's personal cipher.
 Only those who know the captain's number will unlock it.
 The captain's number was always three.
 
+Many voices echo from the wreck, but only four lines were written by the captain himself.
